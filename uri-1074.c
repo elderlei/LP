@@ -1,4 +1,4 @@
-//Uri 1073: Par ou impar
+//Uri 1074: Par ou impar
 #include <stdio.h>
 
 int main(void) {
