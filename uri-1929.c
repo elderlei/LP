@@ -1,4 +1,4 @@
-// Triangulo
+// Uri 1929: Triangulo
 
 #include <stdio.h>
 #include <stdlib.h>
