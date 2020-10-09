@@ -1,3 +1,5 @@
+//// Uri 1018: Cedulas (Resolvido com uso de laço)
+
 #include <stdio.h>
 
 int contador(unsigned long int, int);
