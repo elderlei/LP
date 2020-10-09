@@ -1,3 +1,5 @@
+// Uri 1018: Cédulas (Versão direta, sem uso de função ou loop
+
 #include <stdio.h>
 
 int main(void) {
