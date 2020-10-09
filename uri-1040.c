@@ -1,3 +1,5 @@
+// Uri 1040: Média 3
+
 #include <stdio.h>
 
 int main(void) {
