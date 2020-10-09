@@ -1,3 +1,5 @@
+//Uri 1016: Distância
+
 #include <stdio.h>
 int main(void) {  
   int dxy;
