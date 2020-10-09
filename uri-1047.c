@@ -1,4 +1,4 @@
-//Tempo de jogo com minutos
+// Uri 1047: Tempo de jogo com minutos
 #include <stdio.h>
 
 int main(void) {
